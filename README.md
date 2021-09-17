@@ -1,2 +1,2 @@
 # laundry
-Aplikasi Laundry dengan laravel 6
+Aplikasi Laundry dengan laravel 7
